@@ -1,0 +1,43 @@
+/* Global rules */
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color:hsl(212, 45%, 89%)
+}
+a{
+    text-decoration:none;
+    color:hsl(218, 44%, 22%);
+    font-weight:bold;
+    font-size:15px
+}
+/* End Global rules */
+.card{
+    margin:60px auto;
+    width:430.656px;
+    border-radius:21.312px;
+    background-color:white;
+    padding:21.312px
+}
+
+img{
+    width:100%;
+    border-radius:12px;
+}
+h1{
+    color:hsl(218, 44%, 22%);
+    font-weight:700;
+    text-align:center;
+    margin-top:41.376px;
+    padding:0 26.688px;
+}
+p{
+    margin-top:29.376px;
+    color:hsl(220, 15%, 55%);
+    font-size:22px;
+    font-weight:500;
+    text-align:center;
+    padding:0 29.376px 60px 
+}
